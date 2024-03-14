@@ -8,6 +8,8 @@ Many Microsoft Exam test takers have reported about the confusion of how to chec
 4. Click the **Schedule with Pearson VUE** button in the Step 3.
 5. You will be transferred to Pearson VUE site now. The browser URL will look like something like this - "https://wsr.pearsonvue.com/testtaker/registration/SelectExamOptionsPage/MICROSOFT?conversationId=XXXXXX"
 6. *Optional* - expand the menu using ">>" in the left menu bar.
-7. Click on Org Chart icon, which will take you to the Pearson VUE Dashboard
+7. Click on **Org Chart** icon in the left menu, which will take you to the Pearson VUE Dashboard.
 8. Here, you can find the "View score reports" at the right side.
-9. Hope this helps.
+
+
+Hope this helps. For any questions/feedback, tag me on <a href="https://x.com/kamleshrao">Twitter</a>.
